@@ -1,4 +1,4 @@
-# Introduction to Map and Reduce Lab
+reat# Introduction to Map and Reduce Lab
 
 ## Learning Goals
 
